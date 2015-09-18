@@ -12,6 +12,8 @@ I never had the intention to create a climate data file in the first place, but 
 
 Anyhow as said, if you just would like to play around, feel free to check it out.
 
+>Note: The temperature data is in Celsius, and rainfall in mm.
+
 ## Structure
 
 I included an id to easily hook it up with matching data. Otherwise the JSON should be pretty self explanatory. Just remember to access the monthlyAvg array with the correct index (month number - 1).

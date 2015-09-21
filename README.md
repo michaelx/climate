@@ -1,6 +1,6 @@
 # Climate JSON
 
-A JSON file with the monthly climate data of over one-hundred destinations and counting. It includes the average high and low temperature, dry days, snow days, rainfall, and average daily rainfall for every month.
+A JSON file with the monthly climate data of over one-hundred destinations and counting. It includes the average high and low temperature, dry days, snow days, and rainfall, for every month.
 
 ## Why?
 
@@ -12,7 +12,9 @@ I never had the intention to create a climate data file in the first place, but 
 
 Anyhow, if you just would like to play around, feel free to check it out.
 
->Note: The temperature data is in **Celsius**, and rainfall in **mm**.
+>**Note:** The temperature data is in **Celsius**, and rainfall in **mm**.
+
+>**Tip:** Divide `rainfall` by the number of days of the month, to calculate the average daily rainfall.
 
 ## Structure
 

@@ -9098,5 +9098,460 @@
         "rainfall": 71.8
       }
     ]
+  },
+  {
+    "id": 101,
+    "city": "Albuquerque NM",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": 10,
+        "low": -4,
+        "dryDays": 24,
+        "snowDays": 4,
+        "rainfall": 10.7
+      },
+      {
+        "high": 14,
+        "low": -2,
+        "dryDays": 22,
+        "snowDays": 3,
+        "rainfall": 12.6
+      },
+      {
+        "high": 18,
+        "low": 1,
+        "dryDays": 23,
+        "snowDays": 3,
+        "rainfall": 16.5
+      },
+      {
+        "high": 23,
+        "low": 6,
+        "dryDays": 24,
+        "snowDays": 1,
+        "rainfall": 16.3
+      },
+      {
+        "high": 28,
+        "low": 11,
+        "dryDays": 24,
+        "snowDays": 0,
+        "rainfall": 11.5
+      },
+      {
+        "high": 33,
+        "low": 16,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 14.5
+      },
+      {
+        "high": 34,
+        "low": 19,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 39.3
+      },
+      {
+        "high": 32,
+        "low": 18,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 43
+      },
+      {
+        "high": 29,
+        "low": 14,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 26.4
+      },
+      {
+        "high": 23,
+        "low": 7,
+        "dryDays": 24,
+        "snowDays": 1,
+        "rainfall": 23.7
+      },
+      {
+        "high": 15,
+        "low": 1,
+        "dryDays": 24,
+        "snowDays": 2,
+        "rainfall": 16.4
+      },
+      {
+        "high": 10,
+        "low": -4,
+        "dryDays": 25,
+        "snowDays": 5,
+        "rainfall": 13.9
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "city": "Vermont IL",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": 3,
+        "low": -8,
+        "dryDays": 18,
+        "snowDays": 11,
+        "rainfall": 52.1
+      },
+      {
+        "high": 5,
+        "low": -6,
+        "dryDays": 17,
+        "snowDays": 8,
+        "rainfall": 47.1
+      },
+      {
+        "high": 11,
+        "low": -1,
+        "dryDays": 17,
+        "snowDays": 5,
+        "rainfall": 62.5
+      },
+      {
+        "high": 19,
+        "low": 5,
+        "dryDays": 14,
+        "snowDays": 1,
+        "rainfall": 90.4
+      },
+      {
+        "high": 24,
+        "low": 10,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 106.4
+      },
+      {
+        "high": 29,
+        "low": 16,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 80.1
+      },
+      {
+        "high": 30,
+        "low": 18,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 98.7
+      },
+      {
+        "high": 30,
+        "low": 17,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 87.7
+      },
+      {
+        "high": 26,
+        "low": 12,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 81.7
+      },
+      {
+        "high": 20,
+        "low": 6,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 70
+      },
+      {
+        "high": 11,
+        "low": 0,
+        "dryDays": 17,
+        "snowDays": 5,
+        "rainfall": 71.6
+      },
+      {
+        "high": 4,
+        "low": -6,
+        "dryDays": 18,
+        "snowDays": 10,
+        "rainfall": 50.7
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "city": "Nashville TE",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": 9,
+        "low": -1,
+        "dryDays": 18,
+        "snowDays": 8,
+        "rainfall": 84.4
+      },
+      {
+        "high": 10,
+        "low": 0,
+        "dryDays": 14,
+        "snowDays": 6,
+        "rainfall": 89.1
+      },
+      {
+        "high": 16,
+        "low": 5,
+        "dryDays": 17,
+        "snowDays": 2,
+        "rainfall": 82.8
+      },
+      {
+        "high": 22,
+        "low": 10,
+        "dryDays": 15,
+        "snowDays": 1,
+        "rainfall": 124.2
+      },
+      {
+        "high": 26,
+        "low": 15,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 148.6
+      },
+      {
+        "high": 29,
+        "low": 18,
+        "dryDays": 17,
+        "snowDays": 0,
+        "rainfall": 62.6
+      },
+      {
+        "high": 31,
+        "low": 21,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 84.7
+      },
+      {
+        "high": 32,
+        "low": 21,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 87.5
+      },
+      {
+        "high": 28,
+        "low": 16,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 99.5
+      },
+      {
+        "high": 22,
+        "low": 10,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 106.7
+      },
+      {
+        "high": 16,
+        "low": 5,
+        "dryDays": 17,
+        "snowDays": 1,
+        "rainfall": 110.4
+      },
+      {
+        "high": 9,
+        "low": 0,
+        "dryDays": 16,
+        "snowDays": 5,
+        "rainfall": 128.6
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "city": "St. Louis MO",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": 7,
+        "low": -4,
+        "dryDays": 16,
+        "snowDays": 10,
+        "rainfall": 69.8
+      },
+      {
+        "high": 9,
+        "low": -3,
+        "dryDays": 16,
+        "snowDays": 8,
+        "rainfall": 57.3
+      },
+      {
+        "high": 15,
+        "low": 2,
+        "dryDays": 16,
+        "snowDays": 4,
+        "rainfall": 83.3
+      },
+      {
+        "high": 21,
+        "low": 8,
+        "dryDays": 13,
+        "snowDays": 1,
+        "rainfall": 104.1
+      },
+      {
+        "high": 26,
+        "low": 13,
+        "dryDays": 13,
+        "snowDays": 0,
+        "rainfall": 129.9
+      },
+      {
+        "high": 30,
+        "low": 19,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 103.4
+      },
+      {
+        "high": 32,
+        "low": 21,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 100.7
+      },
+      {
+        "high": 32,
+        "low": 21,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 73.5
+      },
+      {
+        "high": 28,
+        "low": 15,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 76.1
+      },
+      {
+        "high": 22,
+        "low": 9,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 71.1
+      },
+      {
+        "high": 14,
+        "low": 3,
+        "dryDays": 18,
+        "snowDays": 3,
+        "rainfall": 86.4
+      },
+      {
+        "high": 8,
+        "low": -3,
+        "dryDays": 17,
+        "snowDays": 9,
+        "rainfall": 64.3
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "city": "Minneapolis MN",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": -3,
+        "low": -13,
+        "dryDays": 20,
+        "snowDays": 16,
+        "rainfall": 19.9
+      },
+      {
+        "high": -1,
+        "low": -11,
+        "dryDays": 19,
+        "snowDays": 13,
+        "rainfall": 17.4
+      },
+      {
+        "high": 6,
+        "low": -5,
+        "dryDays": 18,
+        "snowDays": 11,
+        "rainfall": 44
+      },
+      {
+        "high": 15,
+        "low": 2,
+        "dryDays": 15,
+        "snowDays": 5,
+        "rainfall": 73.4
+      },
+      {
+        "high": 22,
+        "low": 9,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 92.3
+      },
+      {
+        "high": 27,
+        "low": 14,
+        "dryDays": 13,
+        "snowDays": 0,
+        "rainfall": 112.8
+      },
+      {
+        "high": 29,
+        "low": 17,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 107.2
+      },
+      {
+        "high": 28,
+        "low": 16,
+        "dryDays": 17,
+        "snowDays": 0,
+        "rainfall": 111.7
+      },
+      {
+        "high": 24,
+        "low": 11,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 82.1
+      },
+      {
+        "high": 16,
+        "low": 4,
+        "dryDays": 18,
+        "snowDays": 2,
+        "rainfall": 58.7
+      },
+      {
+        "high": 6,
+        "low": -3,
+        "dryDays": 19,
+        "snowDays": 10,
+        "rainfall": 43.4
+      },
+      {
+        "high": -1,
+        "low": -11,
+        "dryDays": 19,
+        "snowDays": 16,
+        "rainfall": 21.8
+      }
+    ]
   }
 ]
